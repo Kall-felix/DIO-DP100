@@ -90,8 +90,6 @@ Todos os experimentos foram registrados usando **MLflow** integrado ao Azure ML:
 
 Foi criado um **pipeline automatizado** no Azure ML.
 
-```
-
 **Vantagens do Pipeline**:
 - ✅ Reprodutível e versionado
 - ✅ Pode ser executado manualmente ou via schedule
@@ -101,7 +99,7 @@ Foi criado um **pipeline automatizado** no Azure ML.
 ---
 
  Exemplo de Uso:
-```
+
 Previsão do tempo: 35°C amanhã
 
 → Modelo prevê: 95 sorvetes
@@ -109,8 +107,6 @@ Previsão do tempo: 35°C amanhã
 → Produção ajustada: 100 sorvetes (margem de segurança)
 
 → Resultado: estoque ideal, sem perdas
-
-```
 
 
 ---
